@@ -6,4 +6,4 @@ To use it on your system:
    or just make app read it from your system. (Challenge accepted ^^)
   2. Rename it to whatever you'd like command to be (like "clight")
   3. chmod a+x <filename>
-  4. Put it into your bin folder. It could be `~/.local/bin`, `~/bin` or even... "~/.my_superior_script_for_managing_light" 0_o
+  4. Put it into your bin folder. It could be `~/.local/bin`, `~/bin` or even... `~/.my_superior_script_for_managing_light` 0_o
