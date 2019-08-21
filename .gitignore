@@ -104,8 +104,8 @@ venv.bak/
 .mypy_cache/
 
 # vscode
-.vscode
-.temp
+.vscode/
+.temp/
 
 # archive
-archive
+archive/
